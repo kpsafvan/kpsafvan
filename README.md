@@ -21,12 +21,11 @@ I also did competitive coding in college — something I've recently picked up a
 
 ### 🏅 Badges
 
-[![HackerRank Badges](./HackerRank%20Badges.png)](https://www.hackerrank.com/safvankpmes)
+[![HackerRank Badges](./HackerRank_Badges.png)](https://www.hackerrank.com/safvankpmes)
 
 ### 📜 Certifications
 
-[![Problem Solving (Basic)](https://img.shields.io/badge/Certificate-Problem_Solving_(Basic)-brightgreen?style=for-the-badge&logo=hackerrank)](https://www.hackerrank.com/certificates/e07ba47b6a69)
-[![SQL (Basic)](https://img.shields.io/badge/Certificate-SQL_(Basic)-blue?style=for-the-badge&logo=hackerrank)](https://www.hackerrank.com/certificates/0b5f9440cba3)
+[![HackerRank Certifications](./HackerRank_Certifications.png)](https://www.hackerrank.com/safvankpmes)
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=kpsafvan&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>

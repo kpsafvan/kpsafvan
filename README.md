@@ -21,12 +21,7 @@ I also did competitive coding in college — something I've recently picked up a
 
 ### 🏅 Badges
 
-[![5★ Problem Solving](https://img.shields.io/badge/Problem_Solving-5★-brightgreen?style=for-the-badge&logo=hackerrank)](https://www.hackerrank.com/safvankpmes)
-[![5★ C++](https://img.shields.io/badge/C++-5★-yellow?style=for-the-badge&logo=hackerrank)](https://www.hackerrank.com/safvankpmes)
-[![4★ Java](https://img.shields.io/badge/Java-4★-red?style=for-the-badge&logo=hackerrank)](https://www.hackerrank.com/safvankpmes)
-[![4★ Python](https://img.shields.io/badge/Python-4★-blue?style=for-the-badge&logo=hackerrank)](https://www.hackerrank.com/safvankpmes)
-[![5★ 30 Days of Code](https://img.shields.io/badge/30_Days_of_Code-5★-purple?style=for-the-badge&logo=hackerrank)](https://www.hackerrank.com/safvankpmes)
-[![5★ C Language](https://img.shields.io/badge/C_Language-5★-orange?style=for-the-badge&logo=hackerrank)](https://www.hackerrank.com/safvankpmes)
+[![HackerRank Badges](./HackerRank%20Badges.png)](https://www.hackerrank.com/safvankpmes)
 
 ### 📜 Certifications
 

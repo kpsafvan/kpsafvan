@@ -19,17 +19,17 @@ I also did competitive coding in college — something I've recently picked up a
 
 ### 🏅 Badges
 
-[![5★ Problem Solving](https://img.shields.io/badge/HackerRank-5★_Problem_Solving-brightgreen?logo=hackerrank)](https://www.hackerrank.com/safvankpmes)
-[![C++](https://img.shields.io/badge/HackerRank-C++-yellow?logo=hackerrank)](https://www.hackerrank.com/safvankpmes)
-[![Java](https://img.shields.io/badge/HackerRank-Java-red?logo=hackerrank)](https://www.hackerrank.com/safvankpmes)
-[![Python](https://img.shields.io/badge/HackerRank-Python-blue?logo=hackerrank)](https://www.hackerrank.com/safvankpmes)
-[![30 Days of Code](https://img.shields.io/badge/HackerRank-30_Days_of_Code-purple?logo=hackerrank)](https://www.hackerrank.com/safvankpmes)
-[![C Language](https://img.shields.io/badge/HackerRank-C_Language-orange?logo=hackerrank)](https://www.hackerrank.com/safvankpmes)
+[![5★ Problem Solving](https://img.shields.io/badge/Problem_Solving-5★-brightgreen?style=for-the-badge&logo=hackerrank)](https://www.hackerrank.com/safvankpmes)
+[![C++](https://img.shields.io/badge/C++-Badge-yellow?style=for-the-badge&logo=hackerrank)](https://www.hackerrank.com/safvankpmes)
+[![Java](https://img.shields.io/badge/Java-Badge-red?style=for-the-badge&logo=hackerrank)](https://www.hackerrank.com/safvankpmes)
+[![Python](https://img.shields.io/badge/Python-Badge-blue?style=for-the-badge&logo=hackerrank)](https://www.hackerrank.com/safvankpmes)
+[![30 Days of Code](https://img.shields.io/badge/30_Days_of_Code-Badge-purple?style=for-the-badge&logo=hackerrank)](https://www.hackerrank.com/safvankpmes)
+[![C Language](https://img.shields.io/badge/C_Language-Badge-orange?style=for-the-badge&logo=hackerrank)](https://www.hackerrank.com/safvankpmes)
 
 ### 📜 Certifications
 
-[![Problem Solving (Basic)](https://img.shields.io/badge/Certificate-Problem_Solving_(Basic)-brightgreen?logo=hackerrank)](https://www.hackerrank.com/certificates/e07ba47b6a69)
-[![SQL (Basic)](https://img.shields.io/badge/Certificate-SQL_(Basic)-blue?logo=hackerrank)](https://www.hackerrank.com/certificates/0b5f9440cba3)
+[![Problem Solving (Basic)](https://img.shields.io/badge/Certificate-Problem_Solving_(Basic)-brightgreen?style=for-the-badge&logo=hackerrank)](https://www.hackerrank.com/certificates/e07ba47b6a69)
+[![SQL (Basic)](https://img.shields.io/badge/Certificate-SQL_(Basic)-blue?style=for-the-badge&logo=hackerrank)](https://www.hackerrank.com/certificates/0b5f9440cba3)
 
 
 

@@ -2,7 +2,7 @@
 I'm a problem-solving enthusiast turned programmer.
 Started with game development in Lua, then moved on to C#.
 Skilled in .NET, Kubernetes, Angular, and AWS.
-I also did competitive coding in college — something I've recently picked up again.
+I also did competitive coding in college with C++ — something I've recently picked up again.
 
 # 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/k-p-safvan/) 
